@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width:100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("../projects-master/eduford_img/banner.png");
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("./eduford_img/banner.png");
     background-position: relative;
     background-size:cover;
 }
@@ -254,7 +254,7 @@ text-align:left;
 .cta{
     margin:100px auto;
     width:80%;
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../projects-master/eduford_img/banner2.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("./eduford_img/banner2.jpg");
     background-position:center;
     background-size: cover;
     border-radius:10px;
@@ -296,7 +296,7 @@ text-align:left;
 .sub-header{
 height:50vh;
 width:100%;
-background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("../projects-master/eduford_img/background.jpg");
+background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("./eduford_img/background.jpg");
 background-position: center;
 background-size: cover;
 text-align:center;
